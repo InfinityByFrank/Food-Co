@@ -98,8 +98,8 @@ Bilingual (ES/EN), responsive, light/dark, with one module per section (Nav, Her
 
 ## 📄 Note
 
-This repository contains **documentation only**; the source code is private. Happy to walk through it in an interview.
+This repository contains **documentation only**; the source code is private.
 
 ## 📬 Contact
 
-**Infinity dev por Frank** · [GitHub](https://github.com/TheGeistGamer) · [Infinity](https://infinitydev.agency)
+**Infinity dev by Frank** · [GitHub](https://github.com/InfinityByFrank) · [Infinity](https://infinitydev.agency) · [Portfolio](https://portfolio.infinitydev.agency)
